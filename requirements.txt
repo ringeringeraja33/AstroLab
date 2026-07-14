@@ -1,1 +1,2 @@
-pyswisseph>=2.10
+pyswisseph>=2.10,<3
+tzdata>=2025.2,<2027; platform_system == "Windows"
