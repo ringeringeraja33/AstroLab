@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+# natal chart JSONs contain personal birth data — never commit them
+*chart*.json
+*.natal.json
