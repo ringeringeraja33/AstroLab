@@ -67,6 +67,13 @@ UTC = dt.timezone.utc
 UNIX_JD = 2440587.5
 
 
+def configure_output_encoding():
+    for stream in (sys.stdout, sys.stderr):
+        reconfigure = getattr(stream, "reconfigure", None)
+        if reconfigure is not None:
+            reconfigure(encoding="utf-8")
+
+
 def fmt_lon(lon):
     sign = int(lon // 30) % 12
     deg = lon % 30
@@ -1174,6 +1181,7 @@ def build_parser():
 
 
 def main():
+    configure_output_encoding()
     parser = build_parser()
     args = parser.parse_args()
     try:
