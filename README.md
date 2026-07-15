@@ -10,6 +10,17 @@ labels each exact hit, including uncommon five-pass sequences. It runs without
 separate data files through Moshier and can install Astrodienst's official
 compressed files for strict Swiss Ephemeris calculations.
 
+## Interpretive stance
+
+AstroLab treats planetary cycles as objective chronological markers and their
+astrological meanings as a symbolic interpretive framework. An aspect does not
+name a predetermined event; it organizes attention around a period of tension,
+and the person's response is often more informative than a generic forecast.
+Because interpretation can alter attention, self-description, and action,
+readings should distinguish prior experience from meanings prompted by the
+reading. AstroLab remains methodologically agnostic about causal or synchronic
+claims: symbolic usefulness does not establish external causation.
+
 ## Install
 
 AstroLab requires Python 3.9 or newer.
