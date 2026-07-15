@@ -129,8 +129,7 @@ Also compute the progressed lunation phase — it names the era's tempo
 
 ## 8. Houses as requirements
 
-The PDF supplied to this project attributes this framework to dogcatcher
-(2012). Treat the twelve houses as recurring requirements rather than twelve
+Treat the twelve houses as recurring requirements rather than twelve
 fixed life areas.
 
 ### The twelve requirements
@@ -168,8 +167,7 @@ Use four observation layers:
 
 ### The endowment hypothesis
 
-The supplied PDF attributes the endowment hypothesis to dogcatcher (2012). It
-is an interpretive hypothesis, not a measured fact. Here, *endowment* means a
+It is an interpretive hypothesis, not a measured fact. Here, *endowment* means a
 constructive quality or the potential to build a satisfying life. It may appear
 as a physical trait, a psychological capacity, outside support, or something
 developed through practice.
